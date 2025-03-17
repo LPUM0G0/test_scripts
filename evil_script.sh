@@ -1,2 +1,2 @@
 #!/bin/bash
-export EVIL="Instalado"
+echo "export EVIL='Instalado'" -n >> ~/.bashrc
