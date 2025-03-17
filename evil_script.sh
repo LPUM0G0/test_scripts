@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Instalado y corriendo"
+export EVIL="Instalado"
